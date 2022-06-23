@@ -3,9 +3,9 @@
 **_Ứng dụng được tạo ra chả nhăm mục đích gì cả :)))_**
 
 ## Thành Viên
-- **Thuận đầu bùi** (Back-end Java)(**T**):
-- **Hào silent** (Font-end-web TypeScript)(**H**):
-- **Trinh Leader** (Font-end-mobile TypeScript)(**T**):
+- **Thuận đầu bùi** (Back-end Java)(**T**): [Thuận](https://github.com/thng1642)
+- **Hào silent** (Font-end-web TypeScript)(**H**): [Hào](https://github.com/haodiu)
+- **Trinh Leader** (Font-end-mobile TypeScript)(**T**): [Trình](https://github.com/NguyenQuangTrinh)
 
 ### Mô tả ứng dụng:
 - **Tính năng**:
@@ -21,6 +21,7 @@
       - Thêm các mã giảm giá
       - xoá, sửa thông tinh của sản phẩm.
  
- ### Link thảm khảm sản phẩm
+ ### Link tham khảo sản phẩm
  
- [Fast Food](https://github.com/NguyenQuangTrinh)
+ [Fast Food](https://github.com/fast-food-THT)
+ 
