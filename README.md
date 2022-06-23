@@ -1,4 +1,3 @@
-# Fast Food
 
 # Fast food
 **_Ứng dụng được tạo ra chả nhăm mục đích gì cả :)))_**
