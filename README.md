@@ -3,7 +3,7 @@
 **_Ứng dụng được tạo ra chả nhăm mục đích gì cả :)))_**
 
 ## Thành Viên
-- **Thuận đầu bùi** (Back-end Java)(**T**): [Thuận](https://github.com/thng1642)
+- **Thuận** (Back-end Java)(**T**): [Thuận](https://github.com/thng1642)
 - **Hào silent** (Font-end-web TypeScript)(**H**): [Hào](https://github.com/haodiu)
 - **Trinh Leader** (Font-end-mobile TypeScript)(**T**): [Trình](https://github.com/NguyenQuangTrinh)
 
