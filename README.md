@@ -1,6 +1,6 @@
 
 # Fast food
-**_Ứng dụng được tạo ra chả nhăm mục đích gì cả :)))_**
+**_Ứng dụng được tạo ra chả nhăm mục đích tìm hiểu công nghệ_**
 
 ## Thành Viên
 - **Thuận** (Back-end Java)(**T**): [Thuận](https://github.com/thng1642)
